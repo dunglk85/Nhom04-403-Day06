@@ -19,9 +19,8 @@ Chatbot hỗ trợ khách hàng Xanh SM xử lý các yêu cầu lặp lại (kh
 
 ## Links
 
-- Prototype:https://github.com/13716/Lab6_nh-m-04-XANHSM-customer-service.git
-- Prompt test log: xem file `prototype/prompt-tests.md`
-- Video demo (backup): https://drive.google.com/xxx
+- Prototype:https://github.com/13716/20A202600385_NgoGiaBao_Day6.git
+- Video demo (backup): https://drive.google.com/file/d/1qlppy8AxkXFRVfV2aPljIyjlgqpNnlZQ/view?usp=sharing
 
 ## Tools
 
@@ -35,6 +34,6 @@ Chatbot hỗ trợ khách hàng Xanh SM xử lý các yêu cầu lặp lại (kh
 
 | Thành viên | Phần | Output |
 |-----------|------|--------|
-| Ngô Gia Bảo | Canvas + failure modes | `prototype/`, `spec/spec-final.md` phần 1 -> 4 |
-| Nguyễn Dương Ninh | User stories 4 paths  | `spec/spec-final.md` phần 6, `demo/slides.pdf` |
-| Lê Kim Dũng | UI prototype + demo script + prompt engineering | `prototype/`,`promptype-readme.md`, `spec/spec-final.md` phần 5|
+| Ngô Gia Bảo | Canvas + failure modes |'demo', `prototype/`, `spec/spec-final.md` phần 1 -> 4 |
+| Nguyễn Dương Ninh | User stories 4 paths  | `spec/spec-final.md` phần 6, `demo/slides.pdf` , 'demo'|
+| Lê Kim Dũng | UI prototype + demo script + prompt engineering | `prototype/`,`promptype-readme.md`, `spec/spec-final.md` phần 5,'demo'|
