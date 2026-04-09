@@ -19,7 +19,7 @@ Chatbot hỗ trợ khách hàng Xanh SM xử lý các yêu cầu lặp lại (kh
 
 ## Links
 
-- Prototype: https://claude.site/artifacts/xxx
+- Prototype:https://github.com/13716/Lab6_nh-m-04-XANHSM-customer-service.git
 - Prompt test log: xem file `prototype/prompt-tests.md`
 - Video demo (backup): https://drive.google.com/xxx
 
